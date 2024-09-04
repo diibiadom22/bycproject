@@ -1,0 +1,58 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    width:99.4%
+  }
+
+  .products-cart{
+    background-color:white;
+    height: 1600px;
+    width: 1252x;
+    border: 2px solid lightgray;
+    margin-left: 15px;
+   }
+
+   .line{
+    border-bottom: 2px solid lightgray;
+    width: 1150px;
+   }
+
+   .bran{
+    height: 30px;
+    width: 80px;
+    margin-left: 5px;
+    }
+
+    .bra{
+     width: 10px;
+     height: 10px;
+     margin-right: 150px;
+     margin-top: -5px;
+   }
+
+   .cic{
+    font-size: 10px;
+    margin-top: -20px;
+    color:white;
+    margin-left: 10px;
+   }
+
+   .apples{
+    width: 10px;
+    height: 10px;
+    margin-right: 150px;
+    margin-top: -5px;
+
+   }
+
+   .brann{
+     width: 70px;
+     height: 30px;
+   }
+
+   .pen{
+    font-size: 10px;
+    margin-top: -20px;
+    color:brand;
+   }
+
