@@ -10,7 +10,7 @@ const OrderSum = () => {
                <p style={{borderBottom:'2px solid lightgray', width:'1150px', marginLeft:'15px'}}></p>
  <div className='cart d-flex '>
       <div className='image'>
-          <img src={shot} alt="" className='' />
+          <img src={shot} alt=""  />
       </div>
          <div className='head ml-5'>
              <p className='font-weight-bold'>MEN BOXERS</p>
