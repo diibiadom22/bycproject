@@ -2,6 +2,7 @@ import React from 'react';
 import Blogs from './component/Blogs';
 import AllProducts from './component/AllProducts';
 import Items from './component/Items';
+import OrderSum from './component/OrderSum';
 
 const Display = () => {
   return (
@@ -9,6 +10,7 @@ const Display = () => {
       <Blogs/>
       <AllProducts/>
       <Items/>
+      <OrderSum/>
     </div>
   );
 }

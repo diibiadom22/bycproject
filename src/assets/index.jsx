@@ -15,5 +15,6 @@ import boxer3 from './boxer3.png'
 import boxer4 from './boxer4.png'
 import shot from './shot.png'
 import caba from './caba.png'
+import visa from './visa.png'
 
-export{ground,pec1,pec2,pec3,pec4,arrow,button,byc,star,aple,car,boxer1,boxer2,boxer3,boxer4,shot,caba}
+export{ground,pec1,pec2,pec3,pec4,arrow,button,byc,star,aple,car,boxer1,boxer2,boxer3,boxer4,shot,caba,visa}

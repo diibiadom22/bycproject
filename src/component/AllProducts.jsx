@@ -200,7 +200,7 @@ const AllProducts = () => {
         </div>
           </div>
 
-          <div class="mt-5" style={{backgroundColor:'white',border:'2px solid lightgray',height:'500px',width:'1200px',marginLeft:'15px', borderRadius:'15px'}}>
+          <div class="mt-5" style={{backgroundColor:'white',border:'2px solid lightgray',height:'500px',width:'1200px',marginLeft:'15px', borderRadius:'10px'}}>
           <div className="d-flex">
            <div className='view pl-4 mt-4'><b>Recently Viewed</b></div> 
           <div className="text-danger mt-4"style={{marginLeft:'960px'}}>See All &gt; </div>
